@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'sms.cqecy47qtkvz.ap-northeast-1.rds.amazonaws.com',
 	'username' => 'root',
-	'password' => '',
+	'password' => 'rootpassword',
 	'database' => 'samikta',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
